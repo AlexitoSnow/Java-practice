@@ -1,0 +1,8 @@
+com\mycompany\tableropeliculas\CartelPeliculasController.class
+com\mycompany\tableropeliculas\Pelicula.class
+module-info.class
+com\mycompany\tableropeliculas\Constants.class
+com\mycompany\tableropeliculas\App.class
+com\mycompany\tableropeliculas\GenerarData.class
+com\mycompany\tableropeliculas\Genero.class
+com\mycompany\tableropeliculas\PeliculaData.class
